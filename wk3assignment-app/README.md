@@ -53,6 +53,11 @@ yarn dev
 
 This will launch the app on http://localhost:5173.
 
+Deployment
+The app has been deployed on Netlify. You can view it live at the following URL:
+
+https://wk3assignment-taskmanager.netlify.app/
+
 
 Technologies Used
 React.js – JavaScript library for building user interfaces.
